@@ -13,5 +13,5 @@ zig-cache/
 *.pdb
 
 *.wasm
-
 .DS_Store
+node_modules
