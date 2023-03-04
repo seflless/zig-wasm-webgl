@@ -5,8 +5,6 @@ one of the official mozilla examples.
 
 https://developer.mozilla.org/en-US/docs/WebAssembly
 
-Forked from [raulgrell/zig-wasm-webgl](https://github.com/raulgrell/zig-wasm-webgl).
-
 <img src="docs/screen-recording.gif"/>
 
 ## Setup
