@@ -11,3 +11,7 @@ zig-cache/
 # Windows artifacts
 *.exe
 *.pdb
+
+*.wasm
+
+.DS_Store
