@@ -9,6 +9,12 @@ Forked from [raulgrell/zig-wasm-webgl](https://github.com/raulgrell/zig-wasm-web
 
 <img src="docs/screen-recording.gif"/>
 
+## Setup
+
+1.  [Install Zig](https://ziglang.org/learn/getting-started/#installing-zig)
+2.  [Install Node.js](https://nodejs.org/en/download/)
+3.  Install the **serve** package as a global `npm install -g serve`
+
 ## Compile
 
 ```bash
@@ -18,7 +24,7 @@ Forked from [raulgrell/zig-wasm-webgl](https://github.com/raulgrell/zig-wasm-web
 ## Run
 
 You'll need some solution for hosting a directory to serve up the index.html
-and .wasm file. I use the _serve_ npm module, ie. run:
+and .wasm file.
 
 ```bash
 serve
